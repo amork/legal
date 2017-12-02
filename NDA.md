@@ -19,7 +19,7 @@ THIS NONDISCLOSURE AGREEMENT (this "Agreement") is entered into and effective as
 
 5. __Return of Confidential Information.__ All Confidential Information furnished under this Agreement remains the property of Company and must be returned to it or destroyed at its request. Within 30 days of receiving such a request from Company, Recipient will comply with the request and provide a written certification, signed by an officer, of its compliance.
 
-6. __No License or Warranty.__ No license under any patents, copyrights, mask work rights, trademarks or other proprietary rights is granted by the disclosure of any Confidential Information under this Agreement. ALL INFORMATION IS PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO A WARRANTY THAT IT IS ACCURATE OR COMPLETE OR A WARRANTY AGAINST INFRINGEMENT.
+6. __No License or Warranty.__ No license under any patents, copyrights, trademarks or other proprietary rights is granted by the disclosure of any Confidential Information under this Agreement. ALL INFORMATION IS PROVIDED "AS IS", WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING BUT NOT LIMITED TO A WARRANTY THAT IT IS ACCURATE OR COMPLETE OR A WARRANTY AGAINST INFRINGEMENT.
 
 7. No Inducement Or Commitment. Company will determine in its sole discretion the information to be disclosed to Recipient. Neither the disclosure nor access to Confidential Information under this Agreement constitutes an inducement or commitment to enter into any employment, consulting or other business relationship. If the parties desire to pursue employment, consulting or other business opportunities, the parties will execute separate written agreement(s).
 
